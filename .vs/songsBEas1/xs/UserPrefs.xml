@@ -1,10 +1,6 @@
-﻿<Properties StartupConfiguration="{FBAD93D6-6F80-456E-995C-753B9D7A4655}|Default">
-  <MultiItemStartupConfigurations />
+﻿<Properties StartupConfiguration="{FBAD93D6-6F80-456E-995C-753B9D7A4655}|Default" GitUserInfo="UsingMD">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.songsBEas1 PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.Workbench ActiveDocument="songsBEas1/Program.cs">
     <Files>
       <File FileName="songsBEas1/Program.cs" Line="52" Column="1" />
@@ -27,4 +23,6 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.songsBEas1 PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>
